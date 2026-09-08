@@ -1,0 +1,8 @@
+{
+  "name": "Rancho SpeedNet",
+  "description": "Sistema de gestão financeira do Rancho SpeedNet para controle de salários, comissões, extras e relatórios inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
